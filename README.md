@@ -1,8 +1,10 @@
 <div align="center">
-  <h1> Hi, I'm Gurpriya Bhatia</h1>
-  <h3>Product-Minded AI Engineer</h3>
+  <h1>👋 Hi, I'm Gurpriya Bhatia</h1>
+  <h3>Product-Minded Software & AI Engineer</h3>
   <p>I build secure, user-centric AI applications from the ground up.</p>
-  <br/>
+  
+<img src="https://komarev.com/ghpvc/?username=gurpriya&color=3670A0&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/><br/>
 </div>
 
 <img align="right" alt="Coding illustration" width="400" src="https://cdn.dribbble.com/users/1121009/screenshots/11030107/media/25be2b86a12dbfd8da02db4cfcbdf50a.gif">
@@ -26,6 +28,9 @@
   <a href="https://scholar.google.com/citations?user=r8-6eaEAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
+  <a href="https://gurpriyabhatia.substack.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-002642?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+</a>
 </p>
 
 <br clear="both"/>
