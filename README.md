@@ -23,6 +23,9 @@
   <a href="mailto:gurpriya.kaur@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://scholar.google.com/citations?user=r8-6eaEAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
 </p>
 
 <br clear="both"/>
