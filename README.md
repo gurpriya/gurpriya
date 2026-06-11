@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Gurpriya Bhatia</h1>
+  <h1> Hi, I'm Gurpriya Bhatia</h1>
   <h3>Product-Minded Software & AI Engineer</h3>
   <p>I build secure, user-centric AI applications from the ground up.</p>
   
@@ -48,7 +48,7 @@
 
 <br/>
 
-### 💻 Tech Stack
+###  Tech Stack
 
 <table width="100%">
   <tr>
